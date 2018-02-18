@@ -2,7 +2,7 @@
 
   
   "development": {
-    "username": "localhost",
+    "username": "postgres",
     "password": "RbCy2314",
     "database": "todos-dev",
     "host": "127.0.0.1",
@@ -10,7 +10,7 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "localhost",
+    "username": "postgres",
     "password": "RbCy2314",
     "database": "todos-test",
     "host": "127.0.0.1",
